@@ -9,6 +9,7 @@ and many more about Frida
 Feel free to contribute and making this repository useful for another.
 
 ## Cases
+* [HID ActivID Mobile Soft Token Vulnerabilities](https://www.randorisec.fr/activid-vulnerabilities/) - 2020/09/01
 * [Reverse Engineering Nike Run Club Android App Using Frida](https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/) - 2020/07/05
 * [Hacking Razer Pay eWallet App](https://blog.sambal0x.com/2020/04/30/Hacking-razer-pay-ewallet-app.html) - 2020/04/30
 * [Instrumenting a Cheese game with Frida](https://cronop-io.github.io/posts/binary%20analysis/2020-06-25-dreamchess_frida/) - 2020/06/25
