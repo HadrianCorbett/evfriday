@@ -9,6 +9,7 @@ and many more about Frida
 Feel free to contribute and making this repository useful for another.
 
 ## Cases
+* [fridroid-unpacker](https://github.com/enovella/fridroid-unpacker) - 2020/12/17
 * [HID ActivID Mobile Soft Token Vulnerabilities](https://www.randorisec.fr/activid-vulnerabilities/) - 2020/09/01
 * [Reverse Engineering Nike Run Club Android App Using Frida](https://yasoob.me/posts/reverse-engineering-nike-run-club-using-frida-android/) - 2020/07/05
 * [Using Frida For Reverse Engineering](https://darungrim.com/research/2020-06-17-using-frida-for-windows-reverse-engineering.html?fbclid=IwAR3vFmVkHFk7bOnGsXH66pmy4YKAAnaNzCZKcMxX5gpaZudnSqXOKdhhrS0) - 2020/06/17
