@@ -9,6 +9,7 @@ and many more about Frida
 Feel free to contribute and making this repository useful for another.
 
 ## Cases
+* [Hacking Mono Games With Frida](https://tomorrowisnew.com/posts/Hacking-Mono-Games-With-Frida/?fbclid=IwAR1egM4J0i3K0OmU6_hX4P2QFXasnD2IovNHQK_mokfe5H3OJWGEPPsEyfc) - 2022/04/23
 * [fpicker fuzzing with frida](https://insinuator.net/2021/03/fpicker-fuzzing-with-frida/) - 2021/03/15
 * [fridroid-unpacker](https://github.com/enovella/fridroid-unpacker) - 2020/12/17
 * [HID ActivID Mobile Soft Token Vulnerabilities](https://www.randorisec.fr/activid-vulnerabilities/) - 2020/09/01
